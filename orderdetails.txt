@@ -1,0 +1,24 @@
+Order ID: 265029551
+Patient id: 1
+Patient Name: ali
+Medicines:
+trybill3 - Rs 65.0
+ibutym - Rs 34.0
+
+Total Bill: Rs 99.0
+Order ID: 265913578
+Patient id: 1
+Patient Name: ali
+Medicines:
+tomacato - Rs 45.0
+muchhachaoo - Rs 345.0
+
+Total Bill: Rs 390.0
+Order ID: 266154276
+Patient id: 1
+Patient Name: ali
+Medicines:
+ibuprof - Rs 45.0
+onetome - Rs 34.0
+
+Total Bill: Rs 79.0
